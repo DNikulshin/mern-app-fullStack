@@ -1,0 +1,25 @@
+{
+  "name": "mern-app-fullstack",
+  "version": "1.0.0",
+  "description": "mern fullStack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DNikulshin/mern-app-fullStack.git"
+  },
+  "keywords": [
+    "mern",
+    "node",
+    "js",
+    "react"
+  ],
+  "author": "d.nikulshin <d.nikulshin.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DNikulshin/mern-app-fullStack/issues"
+  },
+  "homepage": "https://github.com/DNikulshin/mern-app-fullStack#readme"
+}
