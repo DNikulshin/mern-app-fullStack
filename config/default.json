@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://dmn:Valeria09@cluster0.63iaali.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "ValeriaDM"
+}
