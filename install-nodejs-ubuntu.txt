@@ -1,0 +1,2 @@
+https://github.com/DNikulshin/mern-app-fullStack.git
+pm2 start npm -- start
